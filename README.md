@@ -96,7 +96,5 @@ Experienced Software Engineer with over 9 years of driving high-impact projects 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurav-k&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-k&layout=compact&theme=radical)
 
