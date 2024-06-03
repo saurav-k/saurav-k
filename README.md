@@ -1,13 +1,13 @@
-# Hi there, I'm Saurav Trivedi 👋
+# Hi there, I'm Saurav Kumar 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/trivedisaurav/)
 [![Email](https://img.shields.io/badge/Email-ksaurav3045@gmail.com-blue?style=flat&logo=gmail&labelColor=blue)](mailto:ksaurav3045@gmail.com)
 
-## About Me
+## <span style="color: #2E8B57;">About Me</span>
 
 Experienced Software Engineer with over 9 years of driving high-impact projects and delivering scalable software architectures at Fanatics, NetApp, and Oracle. Skilled in designing fault-tolerant, secure systems using open-source technologies, cloud platforms, and microservices architectures. Proven leadership in managing small groups to deliver high-quality projects.
 
-## Core Skills
+## <span style="color: #1E90FF;">Core Skills</span>
 
 - **Architecture**: Application Architecture design, Infrastructure Architecture design, API Development, Frontend Development, Data Pipeline Development, Security Analysis
 - **Patterns**: Microservices, Event-Driven Architecture, Micro Frontend
@@ -18,9 +18,9 @@ Experienced Software Engineer with over 9 years of driving high-impact projects 
 - **UI Tech Stack**: React + Ant Design, Understanding of Angular, JavaScript, HTML, CSS
 - **Others**: CICD, Jenkins, Ansible, Terraform, Vault, Consul, Service Mesh, Kubernetes, Docker
 
-## Professional Experience
+## <span style="color: #FF4500;">Professional Experience</span>
 
-### Fanatics
+### <span style="color: #8A2BE2;">Fanatics</span>
 **Senior Software Engineer (Full-Stack)**  
 *Apr 2021 – Present*
 
@@ -45,7 +45,7 @@ Experienced Software Engineer with over 9 years of driving high-impact projects 
   - Python scripts for bulk processing in the supplier portal.
   - AWS DataSync infrastructure for on-prem to cloud data transfers.
 
-### NetApp India
+### <span style="color: #8A2BE2;">NetApp India</span>
 **Member of Technical Staff – 3**  
 *Nov 2019 – Apr 2021*
 
@@ -57,7 +57,7 @@ Experienced Software Engineer with over 9 years of driving high-impact projects 
 - Developed services for metric aggregation and exposed them for Prometheus monitoring.
 - Implemented a Vault helm chart with custom controllers for secure deployment.
 
-### Oracle India, Bangalore
+### <span style="color: #8A2BE2;">Oracle India, Bangalore</span>
 **Software Engineer**  
 *Jun 2015 – Oct 2019*
 
@@ -68,7 +68,7 @@ Experienced Software Engineer with over 9 years of driving high-impact projects 
 - Created scripts for periodic disaster recovery tests and database/application cloning across cloud regions.
 - Developed scripts for backup and restoration to S3 object storage.
 
-## Education
+## <span style="color: #32CD32;">Education</span>
 
 - **Master of Technology**, Birla Institute of Technology, Pilani, *Oct 2018*
   - Seminar on SOC Architecture Prototyping, Cloud Architecture Design & User Interface Design.
@@ -79,7 +79,7 @@ Experienced Software Engineer with over 9 years of driving high-impact projects 
   - Training and Placement coordinator for the 2014-15 session.
   - Major project on Fault Detection of AGV based on PID and Neural Network.
 
-## Certifications and Conferences
+## <span style="color: #FF6347;">Certifications and Conferences</span>
 
 - AWS Certified Developer - Associate
 - Certified Kubernetes Application Developer (CKAD)
@@ -89,12 +89,14 @@ Experienced Software Engineer with over 9 years of driving high-impact projects 
 - Oracle Autonomous Database Cloud 2019 Certified Specialist
 - Attended Kubernetes conference Bangalore in FEB-2020
 
-## Contact
+## <span style="color: #DAA520;">Contact</span>
 
 - **Email**: [ksaurav3045@gmail.com](mailto:ksaurav3045@gmail.com)
 - **LinkedIn**: [linkedin.com/in/trivedisaurav](https://www.linkedin.com/in/trivedisaurav/)
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurav-k&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-k&layout=compact&theme=radical)
 
