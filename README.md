@@ -1,4 +1,4 @@
-# Hi there, I'm Saurav Kumar 👋
+# Hi there, I'm Saurav Trivedi 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/trivedisaurav/)
 [![Email](https://img.shields.io/badge/Email-ksaurav3045@gmail.com-blue?style=flat&logo=gmail&labelColor=blue)](mailto:ksaurav3045@gmail.com)
